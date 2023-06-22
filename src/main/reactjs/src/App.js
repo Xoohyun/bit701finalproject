@@ -7,7 +7,7 @@ function App() {
 
       <img src={img} alt='' width={300}/>
       <br/>
-      <h5>Docker 배포 실습</h5>
+      <h5>수정입니당!~!~!~!~! 0622</h5>
       
     </div>
   );
