@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import img from './다운로드 (1).png';
 
