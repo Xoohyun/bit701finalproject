@@ -1,5 +1,5 @@
 import './App.css';
-import img from './다운로드 (1).png';
+import img from './image/다운로드 (1).png';
 
 function App() {
   return (

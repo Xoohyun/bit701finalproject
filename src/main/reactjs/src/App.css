@@ -2,6 +2,11 @@
   font-family: 'Gowun Dodum';
 }
 
+body{
+  padding-left: 50px;
+  padding-top: 30px;
+}
+
 ul.menu{
   list-style: none;
 }
